@@ -1,0 +1,7 @@
+openai>=1.68.0
+python-dotenv>=1.0.1
+openinference-instrumentation>=0.1.30
+openinference-instrumentation-openai>=0.1.30
+opentelemetry-api>=1.30.0
+opentelemetry-sdk>=1.30.0
+opentelemetry-exporter-otlp-proto-http>=1.30.0
